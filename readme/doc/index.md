@@ -2,7 +2,7 @@
 import '../../swatch';
 ```
 
-# Build Your Design System from Scratch
+# Build Your Design System from Scratch - A Workshop
 
 This repo contains a design system sample for a workshop where
 attendees will work on implementing a design system made of
