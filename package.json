@@ -1,0 +1,17 @@
+{
+  "name": "@backlight-dev/montaarste.ds-from-scratch-workshop-fork-l88joz3v",
+  "version": "0.1.4",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve pqhnOJeLLipkxfqnECdE --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.7.2",
+    "lit": "^2.2.0",
+    "@divriots/style-dictionary-to-figma": "^0.3.1"
+  },
+  "dependencies": {}
+}
